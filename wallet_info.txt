@@ -1,0 +1,10 @@
+
+===
+
+Data de criação: 2024-10-30T19:28:49.941Z
+Chave Pública: GDGVHROBKTHLVPQ4BPTBAA2AWPG73VDNREHWKDFM545NICZGJLOFX4RC
+Chave Privada: SCQSNNSNVMBBIGDER7PU4U7QQJOHQ2F2KGW6LEKC4545Z75M2LDMYZP7
+
+FRASE MNEMÔNICA (Seed Phrase):
+account elite equip today agent blouse smart bunker agent memory almost crystal vehicle wet empty congress cause plunge rural dirt dragon salt neck option
+
