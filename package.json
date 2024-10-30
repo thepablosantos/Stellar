@@ -4,8 +4,8 @@
     "main": "index.js",
     "license": "MIT",
     "dependencies": {
-      "stellar-sdk": "^12.3.0",
-      "stellar-hd-wallet": "^0.0.10"
+      "stellar-hd-wallet": "^0.0.10",
+      "stellar-sdk": "8.2.3"
     }
   }
   
