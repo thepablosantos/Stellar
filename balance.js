@@ -18,4 +18,4 @@ async function checkBalance() {
   }
 }
 
-checkBalance();
+checkBalance(); //
